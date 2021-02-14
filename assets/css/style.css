@@ -65,7 +65,7 @@ nav ul li {
   display: flex;
 }
 
-.flex-container header {
+main header {
     font-size: 32pt;
     font-weight: bold;
     width: 25%;
@@ -76,16 +76,16 @@ nav ul li {
     padding-right: 10px;
 }
 
-.flex-container p {
+p {
     width: 65%;
     padding-left: 25px;
 }
 
-.flex-container li {
+li {
     list-style-type: none;
 }
 
-.flex-container li:before {
+li:before {
     content: "\25BA \0020";
     font-size: 9px;
     position: relative;
@@ -99,27 +99,19 @@ a {
 
 /* Work */
 
-#work {
-    display: flex;
-}
-
-#work header {
-    font-size: 32pt;
-    font-weight: bold;
-    width: 25%;
-    text-align: right;
-    border-right-color: var(--main-text);
-    border-right-style: solid;
-    border-width: 3px;
-    padding-right: 10px;
-}
-
 #cards {
     width: 65%;
     padding-left: 25px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+#main-work-card {
+    width: 100%;
+    border-color: var(--header-highlight);
+    border-style: solid;
+    border-width: 3px;
 }
 
 #work img {
@@ -131,13 +123,6 @@ a {
 
 #work img:hover {
     opacity: 1.0;
-}
-
-#main-work-card {
-    width: 100%;
-    border-color: var(--header-highlight);
-    border-style: solid;
-    border-width: 3px;
 }
 
 .card-tag {
@@ -176,9 +161,8 @@ a {
     border-width: 3px;
 }
 
-/* Smartphone Adaptations */
+/* On tablets/smartphones, navigation bar moves under developer name */
 @media screen and (max-width: 992px) {
-    /* Navigation bar moves under developer name */
     #header-nav-bar {
         display: flex;
         flex-wrap: wrap;
@@ -195,10 +179,11 @@ a {
         margin-left: 12.5px;
         margin-right: 12.5px;
     }
+}
 
-    /* Secondary work cards become larger for easier viewing */
+/* On smartphones, secondary work cards become larger for easier viewing */
+@media screen and (max-width: 768px) {
     .work-card {
         width: 100%;
-        border-style: solid;
     }
 }

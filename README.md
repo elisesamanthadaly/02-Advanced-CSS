@@ -12,7 +12,7 @@ Click one of the four links at the top right of the page to be brought down to t
 
 Click the image cards in the "Work" section to be brought to that application's page (currently, these are placeholder links.)
 
-Link the link in the "Resume" section to download Elise's resume (currently just a .pdf of an image of a panda).
+Click the link in the "Resume" section to download Elise's resume (currently just a .pdf of an image of a panda).
 
 ![alt text](./assets/images/screenshot.png)
 
@@ -22,7 +22,7 @@ Where would any of us be without [w3schools](https://www.w3schools.com/)...
 
 Also, thank you to [Nicolas Gallagher](https://github.com/necolas) and others who have contributed to [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css).
 
-Image Credits:
+Image sources:
 * [main-work-image](https://ivcjournal.com/feline-diabetes-mellitus/)
 * [work-card-1-image](https://icatcare.org/advice/thinking-of-getting-a-cat/)
 * [work-card-2-image](https://www.pngitem.com/so/old-dog/)
