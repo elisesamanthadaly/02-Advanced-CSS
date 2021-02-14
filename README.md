@@ -3,7 +3,7 @@
 
 This is a portfolio page to display my (Elise Daly's) deployed web applications. I currently have none, so all of the content here is currently filler.
 
-You can view the new page [here](https://elisesamanthadaly.github.io/2-6-21-Homework/).
+You can view the portfolio page [here](https://elisesamanthadaly.github.io/2-6-21-Homework/).
 
 
 ## Usage
@@ -14,7 +14,7 @@ Click the image cards in the "Work" section to be brought to that application's 
 
 Link the link in the "Resume" section to download Elise's resume (currently just a .pdf of an image of a panda).
 
-![alt text](assets/images/screenshot.png)
+![alt text](./assets/images/screenshot.png)
 
 ## Credits
 
@@ -23,11 +23,12 @@ Where would any of us be without [w3schools](https://www.w3schools.com/)...
 Also, thank you to [Nicolas Gallagher](https://github.com/necolas) and others who have contributed to [normalize.css](https://github.com/necolas/normalize.css/blob/master/normalize.css).
 
 Image Credits:
-&emsp;[main-work-image](https://ivcjournal.com/feline-diabetes-mellitus/)
-&emsp;[work-card-1-image](https://icatcare.org/advice/thinking-of-getting-a-cat/)
-&emsp;[work-card-2-image](https://www.pngitem.com/so/old-dog/)
-&emsp;[work-card-3-image](https://www.luinonotizie.it/2014/07/23/cina-allarme-peste-bubbonica-unintera-citta-in-quarantena/25519)
-&emsp;[work-card-4-image](https://www.bbc.com/news/uk-northern-ireland-50502282)
+* [main-work-image](https://ivcjournal.com/feline-diabetes-mellitus/)
+* [work-card-1-image](https://icatcare.org/advice/thinking-of-getting-a-cat/)
+* [work-card-2-image](https://www.pngitem.com/so/old-dog/)
+* [work-card-3-image](https://www.luinonotizie.it/2014/07/23/cina-allarme-peste-bubbonica-unintera-citta-in-quarantena/25519)
+* [work-card-4-image](https://www.bbc.com/news/uk-northern-ireland-50502282)
+* [Panda image](https://www.pinterest.com/pin/501095896035155323/)
 
 ## License
 
