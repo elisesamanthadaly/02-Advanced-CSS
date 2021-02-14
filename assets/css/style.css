@@ -177,7 +177,7 @@ a {
 }
 
 /* Smartphone Adaptations */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
     /* Navigation bar moves under developer name */
     #header-nav-bar {
         display: flex;
