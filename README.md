@@ -1,5 +1,5 @@
-# 2-6-21-Homework
-# 02 Advanced CSS: Portfolio
+# 02 Advanced CSS
+# Portfolio
 
 This is a portfolio page to display my (Elise Daly's) deployed web applications. I currently have none, so all of the content here is currently filler.
 
